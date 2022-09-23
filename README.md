@@ -13,4 +13,4 @@ import time
 
 srmd = 1657361402.9434369
 print(time.ctime(srmd))
-print("Hopefully, in the next 5 years, I will gain much more coding skills than 1657361402.9434369 :P") 
+print("Hopefully, in the next 5 years, I'll gain much more coding skills than what I had on 1657361402.9434369 :P") 
