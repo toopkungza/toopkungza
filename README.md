@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toopkungza
 - 👀 I’m interested in data science, python and C/C++, and many great things computers can do nowadays. :)
-- 🌱 I’m currently learning natural language processing, data visualization, and high-volume data statictical analysis on Python.
+- 🌱 I’m currently learning natural language processing, data visualization, and statistical analysis (linear and logistic regression analysis) on Python.
 - 💞️ I’m looking forward to collaborating on any projects that don't judge how unprofessional I am :P
 - 📫 Well, you can google my Github name.. That's the clue.
 
